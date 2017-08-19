@@ -5,11 +5,11 @@ This is a test repo for spark_apply function of sparklyr, whch enables you to di
 There is two options:
 
 1. Install R on worker nodes with R parcel: https://github.com/chezou/cloudera-parcel
-   Example code: dist_sparklyr.r
+- Example code: dist_sparklyr.r
 
 2. Use conda env
-   Set up script: prepare_conda_env.sh
-   Example code: dist_sparklyr_conda.r
+- Set up script: prepare_conda_env.sh
+- Example code: dist_sparklyr_conda.r
 
 
 ## Requirements
